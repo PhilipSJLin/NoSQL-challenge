@@ -1,4 +1,4 @@
-# nosql-challenge
+# NoSQL-challenge
  
 As a future analyst, I setup, updated, explored, and anlyzed simulated food data for the purpose of learning through the use of MongoDB.
 
