@@ -14,7 +14,7 @@ The UK Food Standards Agency evaluates various establishments across the United 
   * NoSQL_analysis_starter.ipynb  <br/>
 
 ## **Data**
-For our analysis, I have utilized simulated data available in the Resources folder <br/>
+For my analysis, I have utilized simulated data available in the Resources folder <br/>
    * establishments.json <br/>
 
 ## **Technology/Tools used**
