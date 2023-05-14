@@ -11,7 +11,7 @@ The UK Food Standards Agency evaluates various establishments across the United 
 * Setup and update the establishment database <br/>
   * NoSQL_setup_starter.ipynb <br/>
 * Explore and analyze the data to find which restaurants should be **visited** and which should be **avoided** <br/>
-  *NoSQL_analysis_starter.ipynb  <br/>
+  * NoSQL_analysis_starter.ipynb  <br/>
 
 ## **Data**
 For our analysis, I have utilized simulated data available in the Resources folder <br/>
